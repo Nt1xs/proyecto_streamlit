@@ -6,7 +6,7 @@ Despliegue del modelo entrenado en el **segundo corte** del proyecto de aula de 
 **Integrantes:** García López Jeffrey Daniel · Sánchez Cabrera Julián Andrés · Ballesteros Zabaleta Antonio José  
 **Profesor:** José Escorcia-Gutierrez · **Programa:** Ingeniería de Sistemas
 
-🔗 **App pública:** _pegar aquí el enlace de Streamlit Community Cloud_
+🔗 **App pública:** [](https://perfiles-salud-kmeans.streamlit.app/)
 
 ## ¿Qué hace la app?
 
